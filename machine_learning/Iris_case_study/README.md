@@ -212,24 +212,5 @@ The Iris dataset felt like a big step up from the Ball Classification case study
 
 ---
 
-## Commit Message
-
-```
-feat: add Iris Classification ML case study — data exploration phase (OJT)
-```
-
-**Commit Description:**
-```
-Five incremental versions covering dataset loading and exploration
-using sklearn's built-in Iris dataset.
-
-Covers: load_iris(), feature/target metadata, dataset dimensions,
-index-based access, and full dataset iteration with formatted output.
-
-This is the data analysis phase of the ML pipeline — no model trained yet.
-Tools: Python, scikit-learn
-```
-
----
 
 *OJT Report — Machine Learning Track | Case Study 2: Iris Classification*
