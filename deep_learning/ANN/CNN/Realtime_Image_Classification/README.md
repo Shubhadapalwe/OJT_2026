@@ -129,4 +129,4 @@ Unlike the other folders (which are step-by-step learning exercises), this file 
 
 ---
 
-*OJT Training — Marvellous Infosystems | Deep Learning Track*
+
