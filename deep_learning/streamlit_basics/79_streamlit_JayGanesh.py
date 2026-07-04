@@ -1,5 +1,5 @@
 import streamlit as st
 
-st.title("Marvellous Infosystems by Piyush Manohar Khairnar")
+st.title("PUCSD By SHubhada Palwe")
 
 st.write("Jay Ganesh...")
