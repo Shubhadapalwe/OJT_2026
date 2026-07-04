@@ -1,6 +1,6 @@
 # RNN Text Preprocessing
 
-**Marvellous Infosystems — OJT 2026**
+
 **Trainee : Shubhada A. Palwe**
 
 ---
@@ -267,4 +267,4 @@ Run them in order (49 → 55). Each one shows one step of the pipeline.
 
 ---
 
-*Marvellous Infosystems — Converting raw text into numbers, one step at a time.*
+
