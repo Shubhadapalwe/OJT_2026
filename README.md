@@ -21,7 +21,7 @@
 
 ##  Hello, I'm Shubhada
 
-This repository is my complete learning journal from the OJT 2026 program at **Marvellous Infosystems**.
+This repository is my complete learning journal from the OJT 2026 program at pucsd.
 
 When I started this program, I knew basic Python. By the end of it, I had built a working AI agent, a Retrieval-Augmented Generation (RAG) system, and trained Transformer models from scratch. This repo has every program I wrote along the way — more than **90 Python files** across **Machine Learning and Deep Learning** — kept in the exact order I wrote them.
 
