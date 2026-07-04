@@ -1,6 +1,6 @@
 # AI Agents — From Rule-Based to Memory-Enabled
 
-**Marvellous Infosystems | Deep Learning & AI Portfolio**
+**Deep Learning & AI Portfolio**
 **Trainee: Shubhada A. Palwe**
 
 ---
