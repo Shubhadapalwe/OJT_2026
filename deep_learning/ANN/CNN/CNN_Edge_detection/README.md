@@ -184,4 +184,4 @@ Convolution is just sliding a kernel across an image and computing dot products.
 
 ---
 
-*OJT Training — Marvellous Infosystems | Deep Learning Track*
+*OJT Training —  | Deep Learning Track*
