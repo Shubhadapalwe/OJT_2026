@@ -1,7 +1,7 @@
 import streamlit as st
 import PyPDF2
 
-st.title("Marvellous Infosystems by Piyush Manohar Khairnar")
+st.title("PUCSD by Shubhada palwe")
 
 uploaded_file = st.file_uploader(
     "Upload PDF",
