@@ -1,0 +1,62 @@
+# ============================================================
+# OJT 2026 — AI & Deep Learning Portfolio
+# Trainee: Shubhada A. Palwe | Marvellous Infosystems
+# ============================================================
+# Install all at once:
+#   pip install -r requirements.txt
+# ============================================================
+
+# --- Data & Math ---
+numpy
+pandas
+scipy
+
+# --- Visualization ---
+matplotlib
+seaborn
+
+# --- Machine Learning ---
+scikit-learn
+joblib
+
+# --- Deep Learning ---
+tensorflow>=2.10
+keras
+
+# --- Computer Vision ---
+opencv-python
+
+# --- NLP & Text ---
+nltk
+
+# --- Embeddings (RAG project) ---
+sentence-transformers
+
+# --- Vector Search (RAG project) ---
+faiss-cpu
+
+# --- PDF Processing (Streamlit + RAG) ---
+PyPDF2
+
+# --- Web App ---
+streamlit
+
+# --- HTTP (AI Agent / Ollama API) ---
+requests
+
+# --- Image Processing ---
+Pillow
+
+# --- GUI (tkinter is built into Python — no install needed) ---
+# tkinter  ← skip, comes with Python
+
+# ============================================================
+# Additional setup required:
+#
+# 1. Ollama (local LLM for RAG project):
+#    Download from https://ollama.ai
+#    Then run: ollama pull llama3
+#
+# 2. tkinter (if missing on Linux):
+#    sudo apt-get install python3-tk
+# ============================================================
