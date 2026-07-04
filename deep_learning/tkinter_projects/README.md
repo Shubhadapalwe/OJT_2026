@@ -1,6 +1,6 @@
 # tkinter Projects — Desktop GUI with Python
 
-**Marvellous Infosystems | Deep Learning & AI Portfolio**
+**Deep Learning & AI Portfolio**
 **Trainee: Shubhada A. Palwe**
 
 ---
