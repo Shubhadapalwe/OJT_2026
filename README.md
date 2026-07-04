@@ -183,7 +183,7 @@ After writing 90+ programs, these are the things that actually stuck with me:
 ##  Contact
 
 **Shubhada A. Palwe**
-OJT Trainee — Marvellous Infosystems, Pune (2026)
+OJT Trainee —  Pune (2026)
  monapalwe0@gmail.com
  [GitHub](https://github.com/Shubhadapalwe/OJT_2026)
 
