@@ -1,6 +1,6 @@
 # CNN Pipeline — Complete Step by Step
 
-**Marvellous Infosystems — OJT 2026**
+
 **Trainee : Shubhada A. Palwe**
 
 ---
@@ -273,4 +273,4 @@ File 41 has no plots — just prints to console.
 
 ---
 
-*Marvellous Infosystems — Understanding every step of the CNN before using Keras.*
+* — Understanding every step of the CNN before using Keras.*
