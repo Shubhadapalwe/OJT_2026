@@ -1,6 +1,6 @@
 # RAG Project — Intelligent Document Question Answering System
 
-**Marvellous Infosystems | Deep Learning & AI Portfolio**
+**  Deep Learning & AI Portfolio**
 **Trainee: Shubhada A. Palwe**
 
 ---
