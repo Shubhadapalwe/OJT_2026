@@ -1,10 +1,4 @@
-# =========================================================
-#              Marvellous Infosystems
-# =========================================================
-# Project Name : Marvellous Infosystems Calculator
-# Author       : Piyush Manohar Khairnar
-# Date         : 09/05/2026
-# =========================================================
+
 
 import tkinter as tk
 from tkinter import messagebox
@@ -62,7 +56,7 @@ def calculate_result():
 
 root = tk.Tk()
 
-root.title("Marvellous Infosystems Calculator")
+root.title("PUCSD Calculator")
 
 root.geometry("400x600")
 
@@ -73,7 +67,7 @@ root.configure(bg="#0f172a")
 
 title = tk.Label(
     root,
-    text="Marvellous Infosystems",
+    text="PUCSD",
     font=("Arial", 22, "bold"),
     bg="#0f172a",
     fg="#38bdf8"
