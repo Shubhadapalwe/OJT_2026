@@ -1,6 +1,5 @@
 # ---------------------------------------------------------
 # Program : Artificial Neuron with ReLU Activation
-# Author  : Piyush Manohar Khairnar
 # ---------------------------------------------------------
 
 import matplotlib.pyplot as plt
