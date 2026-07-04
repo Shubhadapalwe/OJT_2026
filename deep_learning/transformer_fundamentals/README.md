@@ -1,6 +1,6 @@
 # Transformer Fundamentals
 
-**Marvellous Infosystems — OJT 2026**
+
 **Trainee : Shubhada A. Palwe**
 
 ---
@@ -358,4 +358,4 @@ Files 71–75 run in seconds (pure numpy). Files 76–78 train neural networks a
 
 ---
 
-*Marvellous Infosystems — From Q×K.T to GPT, understanding every step of the Transformer.*
+
