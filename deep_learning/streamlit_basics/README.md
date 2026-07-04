@@ -1,6 +1,6 @@
 # Streamlit Basics
 
-**Marvellous Infosystems — OJT 2026**
+
 **Trainee : Shubhada A. Palwe**
 
 ---
